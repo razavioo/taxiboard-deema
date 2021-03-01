@@ -1,4 +1,4 @@
-package com.taxitech.taxiboard.deema
+package com.taxitech.taxiboard.demo
 
 import org.junit.Test
 

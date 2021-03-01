@@ -1,4 +1,4 @@
-package com.taxitech.taxiboard.deema
+package com.taxitech.taxiboard.demo
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

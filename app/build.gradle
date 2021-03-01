@@ -48,6 +48,7 @@ dependencies {
     implementation "androidx.transition:transition:1.4.0"
     implementation 'com.android.support:multidex:1.0.3'
 
-    implementation(name: 'DeemaSDK-Android-v1.5', ext: 'aar')
+    implementation(name: 'DeemaSDK-Android-v1.8.2', ext: 'aar')
     implementation 'com.google.android.gms:play-services-ads:19.7.0'
+    implementation 'com.squareup.okhttp3:okhttp:4.9.0'
 }
